@@ -17,5 +17,5 @@ int main()
     {
         cout << rzut() << endl;
     }
-    return 0;
+    return 0; 
 }
